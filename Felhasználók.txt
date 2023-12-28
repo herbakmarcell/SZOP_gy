@@ -1,0 +1,8 @@
+Név	Jelszó	Jogkör		Egyediség
+
+user	pass	tanuló		Nincs oktatója
+user2	pass	tanuló	
+user3	pass	tanuló		Vizsgázik (ksanyi)
+banyik	pass	oktató		user3 oktatója
+kov	pass	oktató	
+ksanyi	pass	vizsgabiztos	Vizsgáztat (user3)
